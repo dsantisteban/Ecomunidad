@@ -1,0 +1,80 @@
+/* Inserta tu codigo aqui */
+.logo{
+	width: 80px;
+}
+.nav li{
+	list-style-type: none;
+	display: inline;
+}
+.nav li:nth-of-type(2n+1){
+	padding: 0 10px;
+}
+.semilla{
+	height: 300px;
+	background-image: url("../img/semilla.jpg");
+}
+.red-sol{
+	width: 20px;
+}
+.lorem{
+	height: 100%;
+}
+.centro p{
+	padding: 5% 10%;
+}
+.servicios p {
+	padding-top: 3%;
+}
+.font-s12{
+	font-size: 12px;
+}
+.font-s11{
+	font-size:11px;
+}
+.mivi{
+	width: 100px;	
+}
+.img-met{
+	background-image: url("../img/metodo.jpg");
+	height: 350px;
+}
+.text-met{
+	background-image: url("../img/fondo.jpg");
+	height: 350px;
+}
+.equipo{
+	width: 50%;
+	border-radius: 100%;
+}
+.blog{
+	width: 100%;
+	height: 425px;
+	background-image: url("../img/fondo2.jpg")
+}
+.slider-r{
+	float: right;
+}
+.slider{
+	padding: 150px 0;
+}
+.redes{
+	height: 310px;
+	background-color: #4D4D4D;
+}
+.p-redes img{
+	width: 40px;
+	top: 50%;
+	right: 30%;
+}
+.border{
+	border: 1px solid white;
+	width:230px;
+	height: 200px;
+}
+.p-redes .col-3 img{
+	margin: 100px 0 0 100px;
+}
+.proyecto{
+	height: 100px;
+	background-color: #F2F2F2;		
+}
